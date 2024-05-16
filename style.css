@@ -1,0 +1,13 @@
+h3 {
+    color: rgba(255, 0, 0, 1);
+}
+p {
+    padding-left: 20px;
+    width: 162px;
+    height: 235px;
+    margin: 70px;
+}
+img {
+    margin-top: 1px;
+    margin-left: 50px;
+}
